@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-proceres/./static/css/main.d1b05096.chunk.css",
+    "main.js": "/test-proceres/./static/js/main.49646531.chunk.js",
+    "main.js.map": "/test-proceres/./static/js/main.49646531.chunk.js.map",
+    "runtime-main.js": "/test-proceres/./static/js/runtime-main.b6a3d92c.js",
+    "runtime-main.js.map": "/test-proceres/./static/js/runtime-main.b6a3d92c.js.map",
+    "static/js/2.75dedd38.chunk.js": "/test-proceres/./static/js/2.75dedd38.chunk.js",
+    "static/js/2.75dedd38.chunk.js.map": "/test-proceres/./static/js/2.75dedd38.chunk.js.map",
+    "index.html": "/test-proceres/./index.html",
+    "precache-manifest.727bbc64eb50a140363525b503eec525.js": "/test-proceres/./precache-manifest.727bbc64eb50a140363525b503eec525.js",
+    "service-worker.js": "/test-proceres/./service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/test-proceres/./static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.75dedd38.chunk.js.LICENSE": "/test-proceres/./static/js/2.75dedd38.chunk.js.LICENSE",
+    "static/media/logo.svg": "/test-proceres/./static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6a3d92c.js",
+    "static/js/2.75dedd38.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.49646531.chunk.js"
+  ]
+}
